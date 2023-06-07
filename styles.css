@@ -3,6 +3,12 @@ h1 {
     font-family: Arial,  serif;
 }
 
+#instructions-container {
+    text-align: center;
+    font-family: Arial,  serif;
+    
+}
+
 #game-container {
     position: relative;
     width: 500px;
